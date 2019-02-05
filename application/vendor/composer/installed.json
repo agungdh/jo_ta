@@ -1,0 +1,40 @@
+[
+    {
+        "name": "agungdh/pustaka",
+        "version": "1.0.7",
+        "version_normalized": "1.0.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/agungdh/pustaka.git",
+            "reference": "f56e4bbbabe87354e4e62d9907099265f0b16106"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/agungdh/pustaka/zipball/f56e4bbbabe87354e4e62d9907099265f0b16106",
+            "reference": "f56e4bbbabe87354e4e62d9907099265f0b16106",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.0"
+        },
+        "time": "2018-11-21T15:12:21+00:00",
+        "type": "package",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "agungdh\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "agungdh",
+                "email": "agungdh@live.com"
+            }
+        ],
+        "description": "Collection of libraries commonly used in developing web applications by AgungDH"
+    }
+]
