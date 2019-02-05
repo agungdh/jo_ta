@@ -23,15 +23,15 @@
 		<!--end::Web font -->
 
 		<!--begin::Global Theme Styles -->
-		<link href="<?php echo base_url('assets/template/'); ?>assets/vendors/base/vendors.bundle.css" rel="stylesheet" type="text/css" />
+		<link href="<?php echo base_url('assets/template/demo12/'); ?>assets/vendors/base/vendors.bundle.css" rel="stylesheet" type="text/css" />
 
-		<!--RTL version:<link href="<?php echo base_url('assets/template/'); ?>assets/vendors/base/vendors.bundle.rtl.css" rel="stylesheet" type="text/css" />-->
-		<link href="<?php echo base_url('assets/template/'); ?>assets/demo/demo12/base/style.bundle.css" rel="stylesheet" type="text/css" />
+		<!--RTL version:<link href="<?php echo base_url('assets/template/demo12/'); ?>assets/vendors/base/vendors.bundle.rtl.css" rel="stylesheet" type="text/css" />-->
+		<link href="<?php echo base_url('assets/template/demo12/'); ?>assets/demo/demo12/base/style.bundle.css" rel="stylesheet" type="text/css" />
 
-		<!--RTL version:<link href="<?php echo base_url('assets/template/'); ?>assets/demo/demo12/base/style.bundle.rtl.css" rel="stylesheet" type="text/css" />-->
+		<!--RTL version:<link href="<?php echo base_url('assets/template/demo12/'); ?>assets/demo/demo12/base/style.bundle.rtl.css" rel="stylesheet" type="text/css" />-->
 
 		<!--end::Global Theme Styles -->
-		<link rel="shortcut icon" href="<?php echo base_url('assets/template/'); ?>assets/demo/demo12/media/img/logo/favicon.ico" />
+		<link rel="shortcut icon" href="<?php echo base_url('assets/template/demo12/'); ?>assets/demo/demo12/media/img/logo/favicon.ico" />
 	</head>
 
 	<!-- end::Head -->
@@ -52,7 +52,7 @@
 							<div class="m-stack m-stack--ver m-stack--general">
 								<div class="m-stack__item m-stack__item--middle m-brand__logo">
 									<a href="index.html" class="m-brand__logo-wrapper">
-										<img alt="" src="<?php echo base_url('assets/template/'); ?>assets/demo/demo12/media/img/logo/logo.png" />
+										<img alt="" src="<?php echo base_url('assets/template/demo12/'); ?>assets/demo/demo12/media/img/logo/logo.png" />
 									</a>
 								</div>
 							</div>
@@ -68,7 +68,7 @@
 										<li class="m-nav__item m-topbar__user-profile  m-dropdown m-dropdown--medium m-dropdown--arrow  m-dropdown--align-right m-dropdown--mobile-full-width m-dropdown--skin-light" m-dropdown-toggle="click">
 											<a href="#" class="m-nav__link m-dropdown__toggle">
 												<span class="m-topbar__userpic">
-													<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/user4.jpg" class="m--img-rounded m--marginless m--img-centered" alt="" />
+													<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/user4.jpg" class="m--img-rounded m--marginless m--img-centered" alt="" />
 												</span>
 												<span class="m-nav__link-icon m-topbar__usericon  m--hide">
 													<span class="m-nav__link-icon-wrapper"><i class="flaticon-user-ok"></i></span>
@@ -81,7 +81,7 @@
 													<div class="m-dropdown__header m--align-center">
 														<div class="m-card-user m-card-user--skin-light">
 															<div class="m-card-user__pic">
-																<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/user4.jpg" class="m--img-rounded m--marginless" alt="" />
+																<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/user4.jpg" class="m--img-rounded m--marginless" alt="" />
 															</div>
 															<div class="m-card-user__details">
 																<span class="m-card-user__name m--font-weight-500">Mark Andre</span>
@@ -331,7 +331,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_4.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_4.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -351,7 +351,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_14.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_14.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -371,7 +371,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_11.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_11.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -391,7 +391,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_1.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_1.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -411,7 +411,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_5.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_5.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -439,7 +439,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_2.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_2.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -459,7 +459,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_13.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_13.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -479,7 +479,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_9.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_9.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -499,7 +499,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_2.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_2.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -521,7 +521,7 @@
 													<!--begin::Widget 14 Item-->
 													<div class="m-widget4__item">
 														<div class="m-widget4__img m-widget4__img--pic">
-															<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_8.jpg" alt="">
+															<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_8.jpg" alt="">
 														</div>
 														<div class="m-widget4__info">
 															<span class="m-widget4__title">
@@ -755,7 +755,7 @@
 										<div class="m-widget4 m-widget4--chart-bottom" style="min-height: 480px">
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/client-logos/logo3.png" alt="">
+													<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/client-logos/logo3.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -771,7 +771,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/client-logos/logo1.png" alt="">
+													<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/client-logos/logo1.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -787,7 +787,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/client-logos/logo4.png" alt="">
+													<img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/client-logos/logo4.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -1202,10 +1202,10 @@
 															AEOL Meeting With
 														</div>
 														<div class="m-list-pics m-list-pics--sm m--padding-left-20">
-															<a href="#"><img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_4.jpg" title=""></a>
-															<a href="#"><img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_13.jpg" title=""></a>
-															<a href="#"><img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_11.jpg" title=""></a>
-															<a href="#"><img src="<?php echo base_url('assets/template/'); ?>assets/app/media/img/users/100_14.jpg" title=""></a>
+															<a href="#"><img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_4.jpg" title=""></a>
+															<a href="#"><img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_13.jpg" title=""></a>
+															<a href="#"><img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_11.jpg" title=""></a>
+															<a href="#"><img src="<?php echo base_url('assets/template/demo12/'); ?>assets/app/media/img/users/100_14.jpg" title=""></a>
 														</div>
 													</div>
 													<div class="m-timeline-2__item m--margin-top-30">
@@ -2171,8 +2171,8 @@
 		<!-- end::Scroll Top -->
 
 		<!--begin::Global Theme Bundle -->
-		<script src="<?php echo base_url('assets/template/'); ?>assets/vendors/base/vendors.bundle.js" type="text/javascript"></script>
-		<script src="<?php echo base_url('assets/template/'); ?>assets/demo/demo12/base/scripts.bundle.js" type="text/javascript"></script>
+		<script src="<?php echo base_url('assets/template/demo12/'); ?>assets/vendors/base/vendors.bundle.js" type="text/javascript"></script>
+		<script src="<?php echo base_url('assets/template/demo12/'); ?>assets/demo/demo12/base/scripts.bundle.js" type="text/javascript"></script>
 
 		<!--end::Global Theme Bundle -->
 	</body>
